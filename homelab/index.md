@@ -2,26 +2,15 @@
 layout: project
 ---
 
-# Smartflow
+# Homelab
+
+![Homelab](homelab.jpg)
 
 ## Description
-This section should contain a brief description of your project. What it does, the technologies used, its purpose, features, etc.
-
+After linux classes, I was itching to get started with a "homelab" : a cluster of PCs that together could host my future projects. I reclaimed old desktop PCs, added memory and disk space, and opted for a Proxmox setup running several windows and linux virtual machines. The cluster at one point ran my own DNS and Active Directory server for my home network.
 ## Team
-- **Member 1**: Role or contribution
-- **Member 2**: Role or contribution
-- **Member 3**: Role or contribution
-- ...
+- **Joris Van Puyenbroeck**: Linux enthousiast
 
-## Images or Videos
-You can embed images or videos of your project here. For images, use the following syntax:
-`!Image Description`
-For videos, you can upload them to a platform like YouTube and embed them using HTML in your markdown file.
+## Images
 
-## Documentation
-Provide a link to your project's documentation here. You can use the following syntax to create a link:
-`Link text`
-
-## Live Website
-Provide a link to the live version of your project here, if applicable. You can use the same syntax as above to create a link.
-
+![Proxmox](https://upload.wikimedia.org/wikipedia/commons/f/f6/Proxmox-VE-4-4-screenshot-startpage.png)
