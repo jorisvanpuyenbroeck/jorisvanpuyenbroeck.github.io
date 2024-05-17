@@ -1,0 +1,23 @@
+---
+layout: null
+---
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href='{{ "/assets/main.css" | relative_url }}'>
+    <style>
+        main {
+            margin-top: 20px;
+            margin-left: 10%;
+            margin-right: 10%;
+        }
+    </style>
+</head>
+<body>
+<main>
+    {{ content }}
+</main>
+</body>
+</html>

@@ -1,3 +1,7 @@
+--- 
+layout: project
+---
+
 # Smartflow
 
 ## Description
@@ -20,6 +24,3 @@ Provide a link to your project's documentation here. You can use the following s
 
 ## Live Website
 Provide a link to the live version of your project here, if applicable. You can use the same syntax as above to create a link.
-
----
-Remember to replace all placeholders with your actual content. Happy coding!
