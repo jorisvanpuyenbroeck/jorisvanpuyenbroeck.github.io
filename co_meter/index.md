@@ -2,25 +2,23 @@
 layout: project
 ---
 
-# Smartflow
+# CuCO2
 
 ## Description
-This section should contain a brief description of your project. What it does, the technologies used, its purpose, features, etc.
-
+IoT classes call for a classic "weather station" with temperature and pressure sensor. But on my own initiative this was converted to a CO2 meter station during the Corona period with the help of a **Adafruit_CCS811** air quality sensor. The assignment in the 'Cordova' subject was to create a mobile app. I made an app that can show the results. The data is sent through an MQQT channel. The Node.Red and web server backend ran on my homelab (see other project).
 ## Team
-- **Member 1**: Role or contribution
-- **Member 2**: Role or contribution
-- **Member 3**: Role or contribution
-- ...
+- **Joris Van Puyenbroeck**: IoT enthusiast
 
-## Images or Videos
-You can embed images or videos of your project here. For images, use the following syntax:
-`!Image Description`
-For videos, you can upload them to a platform like YouTube and embed them using HTML in your markdown file.
+## Images
+
+![The Co-meter](esp_adafruit.jpg)
+
+![CuCO2](screenshot123.png)
+
+![CuCO2](screenshot456.png)
+
+
 
 ## Documentation
-Provide a link to your project's documentation here. You can use the following syntax to create a link:
-`Link text`
 
-## Live Website
-Provide a link to the live version of your project here, if applicable. You can use the same syntax as above to create a link.
+Doc for the original weather station with Node-Red and web server backend can be found [here](Individual project IT essentials_Joris_Van Puyenbroeck_1ITF_rev160321.pdf)

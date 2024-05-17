@@ -21,3 +21,6 @@ For the graph in the image at the top, I created a custom formula that calculate
 ![Business intelligence](berekening_afstandwoon_studie.png)
 
 
+## Documentation
+
+[Functional analysis](Functionele specificatie BI Hoger Onderwijs jvp61223.pdf)
