@@ -6,13 +6,13 @@ layout: project
 # Smartflow
 
 ## Description
-This section should contain a brief description of your project. What it does, the technologies used, its purpose, features, etc.
+In this project 4.0 we made a 'proof of concept' of  
 
 ## Team
-- **Member 1**: Role or contribution
-- **Member 2**: Role or contribution
-- **Member 3**: Role or contribution
-- ...
+- **Joris Van Puyenbroeck**: developer and project lead
+- **Willem Helsen**: developer and document lead
+- **Maarten Willoqué**: developer and AI/Azure expert
+- **Peter Henskens**: developer and data manager
 
 ## Images or Videos
 You can embed images or videos of your project here. For images, use the following syntax:
@@ -20,8 +20,7 @@ You can embed images or videos of your project here. For images, use the followi
 For videos, you can upload them to a platform like YouTube and embed them using HTML in your markdown file.
 
 ## Documentation
-Provide a link to your project's documentation here. You can use the following syntax to create a link:
-`Link text`
+Full documentation can be found [here](https://project40.netlify.app/intro/).
 
 ## Live Website
 Provide a link to the live version of your project here, if applicable. You can use the same syntax as above to create a link.

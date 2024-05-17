@@ -2,26 +2,37 @@
 layout: project
 ---
 
+
 # Smartflow
 
+## Video
+
+
+[![Link to the demo video](https://img.youtube.com/vi/SNO6djSCd50/maxresdefault.jpg)](https://www.youtube.com/watch?v=SNO6djSCd50)
+
+
 ## Description
-This section should contain a brief description of your project. What it does, the technologies used, its purpose, features, etc.
+This project involves the development of an advanced system capable of processing incoming emails. The system creates log items per email received, extracts attached documents and classifies and validates them as expense reports, invoices, certificates or inspection reports.
+
+In addition, the AI analyzes the text of the e-mail, identifies relevant information in the relational database, assesses the sentiment and urgency of the message.
+
+The system then logs the processing of the e-mail, classifies the entire e-mail as financial, technical, legal or general, suggests handling suggestions and records tickets in the database.
+
+Translated with DeepL.com (free version)
 
 ## Team
-- **Member 1**: Role or contribution
-- **Member 2**: Role or contribution
-- **Member 3**: Role or contribution
-- ...
+- **Joris Van Puyenbroeck**: developer and project lead
+- **Willem Helsen**: developer and document lead
+- **Maarten Willoqué**: developer and AI/Azure expert
+- **Peter Henskens**: developer and data manager
 
-## Images or Videos
-You can embed images or videos of your project here. For images, use the following syntax:
-`!Image Description`
-For videos, you can upload them to a platform like YouTube and embed them using HTML in your markdown file.
+## Images 
+
+### Backend
+
+![Backend](API_Schema.png)
 
 ## Documentation
-Provide a link to your project's documentation here. You can use the following syntax to create a link:
-`Link text`
+Full documentation can be found [here](https://project40.netlify.app/intro/).
 
-## Live Website
-Provide a link to the live version of your project here, if applicable. You can use the same syntax as above to create a link.
 
