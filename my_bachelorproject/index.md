@@ -2,26 +2,31 @@
 layout: project
 ---
 
-# Smartflow
+# My bachelor's project
+
+<div style="position: relative; padding-bottom: 56.25%; margin-bottom: 30px; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" src="Joris_Van_puyenbroeck_Angular_MyBachelorproject.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Description
-This section should contain a brief description of your project. What it does, the technologies used, its purpose, features, etc.
+As an instructor, one of my responsibilities is to coordinate undergraduate tests. The current procedure involves a lot of administration. The intention of 'My bachelor's project' is a 'proof of concept' to create a common gateway to the bachelor's thesis data for all actors (students, supervisors, mentors and administrative staff).
+From topics, students can choose proposals from supervisors and link them to an organization in the field. In this way, the unique project is born, only to make its way through the procedure.
+The emphasis in this project was on a backend secured via Auth0 and role based access (RBAC), and a user-friendly frontend for all actors, written in Angular. External identity providers like Google and Facebook are supported.
 
 ## Team
-- **Member 1**: Role or contribution
-- **Member 2**: Role or contribution
-- **Member 3**: Role or contribution
-- ...
+- **Joris van Puyenbroeck**: full stack developer
 
-## Images or Videos
-You can embed images or videos of your project here. For images, use the following syntax:
-`!Image Description`
-For videos, you can upload them to a platform like YouTube and embed them using HTML in your markdown file.
+## Secure login via Auth0
+The backend needed to be secured via Auth0.
 
-## Documentation
-Provide a link to your project's documentation here. You can use the following syntax to create a link:
-`Link text`
+![Auth0](auth0_login.png)
 
-## Live Website
-Provide a link to the live version of your project here, if applicable. You can use the same syntax as above to create a link.
+The frontend has a minimal layout, with a custom 'paper' theme.
 
+![Frontend](student_proposal.png)
+
+## Code
+
+The code for the backend can be found [here](https://github.com/jorisvanpuyenbroeck/BPGezinswetenschappen)
+The code for the frontend can be found [here](https://github.com/jorisvanpuyenbroeck/tm-angular/tree/main/mijnbachelorproef)
