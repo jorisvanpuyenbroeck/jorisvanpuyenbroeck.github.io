@@ -2,11 +2,10 @@
 layout: project
 ---
 
-# Smartflow
+# IoT Mousetrap
 
 ## Description
-This section should contain a brief description of your project. What it does, the technologies used, its purpose, features, etc.
-
+For IoT, we had to make a mousetrap with all kinds of sensors and actuators. A distance sensor, light sensor, step motor, DC motor, an orange pi combined with arcade buttons , a lcd display , C code with AI machine learning in it, and many many many hours of work, produced a nice result.
 ## Team
 - **Member 1**: Role or contribution
 - **Member 2**: Role or contribution

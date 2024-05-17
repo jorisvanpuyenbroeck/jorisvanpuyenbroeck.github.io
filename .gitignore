@@ -1,0 +1,27 @@
+# .gitignore
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+
+# Ignore vendor/bundle directory
+/vendor/bundle
+
+# Ignore .env file containing environment variables
+/.env
+
+# Ignore Jekyll build directory
+/_site/
+
+# Ignore Jekyll metadata file
+/.jekyll-metadata
+
+# Ignore Ruby gem dependencies
+Gemfile.lock
