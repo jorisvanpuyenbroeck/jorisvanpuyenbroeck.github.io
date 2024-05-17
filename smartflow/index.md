@@ -8,7 +8,9 @@ layout: project
 ## Video
 
 
-[![Link to the demo video](https://img.youtube.com/vi/SNO6djSCd50/maxresdefault.jpg)](https://www.youtube.com/watch?v=SNO6djSCd50)
+<div style="position: relative; padding-bottom: 56.25%; margin-bottom: 30px; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/SNO6djSCd50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## Description
