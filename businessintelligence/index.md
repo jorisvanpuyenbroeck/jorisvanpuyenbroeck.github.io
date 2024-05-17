@@ -2,26 +2,22 @@
 layout: project
 ---
 
-# Smartflow
+# Business intelligence
+
+![Business intelligence](afstand_weergave.png)
 
 ## Description
-This section should contain a brief description of your project. What it does, the technologies used, its purpose, features, etc.
-
+To support a possible strategic alliance between the Odisee High School and Artevelde High School, a dashboard was created for the course "Business intelligence" in which enrollments, students and courses can be compared.
 ## Team
-- **Member 1**: Role or contribution
-- **Member 2**: Role or contribution
-- **Member 3**: Role or contribution
-- ...
+- **Joris Van Puyenbroeck**: data analyst
 
-## Images or Videos
-You can embed images or videos of your project here. For images, use the following syntax:
-`!Image Description`
-For videos, you can upload them to a platform like YouTube and embed them using HTML in your markdown file.
+## Images
 
-## Documentation
-Provide a link to your project's documentation here. You can use the following syntax to create a link:
-`Link text`
+A prediction according to SSA (singular spectrum analysis) algorithm for the enrollment figures of both institutions.
 
-## Live Website
-Provide a link to the live version of your project here, if applicable. You can use the same syntax as above to create a link.
+![Business intelligence](predictie.png)
+
+For the graph in the image at the top, I created a custom formula that calculates the distance between the geolocation of the student's home address and the campus of the program this student is attendin
+![Business intelligence](berekening_afstandwoon_studie.png)
+
 
