@@ -18,9 +18,7 @@ I ran Home assistant on my Synology a the time. HA communicated with a php scrip
 
 ## Images or Videos
 
-<div style="position: relative; padding-bottom: 56.25%; margin-bottom: 30px; height: 0; overflow: hidden;">
-  <iframe style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" src="IoT mousetrap project.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qPPL8Nrp0o0?si=iieLr_NIAS3pRkVl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Several iterations went into this build. In this picture, an early version, where the step motor released the trap. I eliminated that by controlling the winding of the cord with the DC motor so, that it would hold the trap door on its own.
 The step motor was later used to lock the door.
