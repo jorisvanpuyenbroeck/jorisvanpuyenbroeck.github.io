@@ -7,7 +7,7 @@ layout: project
 ![iot mousetrap](overzicht.jpg)
 
 ## Description
-For IoT, we had to make a mousetrap with all kinds of sensors and actuators. A distance sensor, light sensor, step motor, DC motor, an orange pi combined with arcade buttons , a lcd display , C code with AI machine learning in it, and many many many hours of work, produced a nice result.
+For IoT, we had to make a mousetrap with all kinds of sensors and actuators. A distance sensor, light sensor, step motor, DC motor, an orange pi combined with arcade buttons , a lcd display , python with AI machine learning in it, and many many many hours of work, produced a nice result.
 And, as a bonus, I was able to practise some woodworking skills.
 The python script cycles through different modes, and uses a lightweight tensorflow (tflite) to recognise a mouse and to trigger the trap. . 
 I ran Home assistant on my Synology a the time. HA communicated with a php script on the Orange Pi. 
