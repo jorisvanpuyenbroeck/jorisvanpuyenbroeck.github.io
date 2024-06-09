@@ -33,6 +33,6 @@ I made this diagram to show the flow of the backend. It shows how the different 
 
 ![Backend](smartFlow-diagram.svg)
 
-Full documentation can be found [here](https://project40.netlify.app/intro/).
+<p>Full documentation can be found <a href="https://project40.netlify.app/intro/" target="_blank">here</a>.</p>
 
 

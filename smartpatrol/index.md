@@ -26,4 +26,5 @@ I made this diagram of the microservices in the backend. It shows how the differ
 ![Backend](Deployment diagram SmartPatrol Prometheus.drawio.png)
 
 ## Documentation
-Full documentation can be found [here](https://clever-churros-6941e3.netlify.app/)
+
+<p>Full documentation can be found <a href="https://clever-churros-6941e3.netlify.app/" target="_blank">here</a>.</p>
