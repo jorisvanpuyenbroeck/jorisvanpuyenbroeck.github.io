@@ -28,5 +28,5 @@ The frontend has a minimal layout, with a custom 'paper' theme.
 
 ## Code
 
-The code for the backend can be found [here](https://github.com/jorisvanpuyenbroeck/BPGezinswetenschappen)
-The code for the frontend can be found [here](https://github.com/jorisvanpuyenbroeck/tm-angular/tree/main/mijnbachelorproef)
+<p>The code for the backend can be found <a href="https://github.com/jorisvanpuyenbroeck/BPGezinswetenschappen" target="_blank">here</a>.</p>
+<p>The code for the frontend can be found <a href="https://github.com/jorisvanpuyenbroeck/tm-angular/tree/main/mijnbachelorproef" target="_blank">here</a>.</p>
