@@ -14,4 +14,4 @@ title: Home
 - [Python, AI en iot : Mouse trap](./mousetrap/)
 - [.Net, C# en Angular : beheer bachelorproeven proof of concept](./my_bachelorproject/)
 - [Augmented reality, Flutter : Smartpatrol app](./smartpatrol/)
-- [TVHeadend: Smartscreen config](./homelab/)
+- [TVHeadend: Smartscreen config](./tvheadend/)
