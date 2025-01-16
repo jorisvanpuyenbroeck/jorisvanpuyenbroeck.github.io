@@ -1,5 +1,5 @@
 --- 
-layout: project
+layout: base
 ---
 
 # My bachelor's project

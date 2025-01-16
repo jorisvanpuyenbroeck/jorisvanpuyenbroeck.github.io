@@ -1,5 +1,5 @@
 --- 
-layout: project
+layout: base
 ---
 
 # Free running club
