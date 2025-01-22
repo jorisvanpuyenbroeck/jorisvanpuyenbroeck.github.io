@@ -1,5 +1,8 @@
 <ul class="social-media-list">
-{%- for entry in site.minima.social_links -%}
+{%- for entry in site.social_links -%}
   {%- include social-item.html item = entry -%}
 {%- endfor -%}
+{% if site.author.email -%}
+  <li><a class="u-email" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" style="color: grey;"></i></a></li>
+{%- endif %}
 </ul>
