@@ -2,9 +2,7 @@
 layout: base
 title: IT-projects
 ---
-<h1>Projects</h1>
-
-... op dit plekje waar ik enkele projecten kan tonen:
+<h1>IT-Projects</h1>
 
 - [AI, Azure Cloud services, .Net, Power automate : AI mail classificatie syndicuskantoren Zeron "Smartflow"](./smartflow/)
 - [Business intelligence: voorspelling inschrijvingen hoger onderwijs met Qlik](./businessintelligence/)
